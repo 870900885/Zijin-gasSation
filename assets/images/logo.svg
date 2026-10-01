@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="紫荆加油站标志">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#c82752"/>
+      <stop offset="1" stop-color="#8f1536"/>
+    </linearGradient>
+  </defs>
+  <circle cx="90" cy="90" r="82" fill="#fff" stroke="#b31943" stroke-width="6"/>
+  <g transform="translate(90 90)" fill="url(#g)">
+    <ellipse cx="0" cy="-39" rx="22" ry="38" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-39" rx="22" ry="38" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-39" rx="22" ry="38" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-39" rx="22" ry="38" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-39" rx="22" ry="38" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="11" fill="#f3b332"/>
+  </g>
+</svg>
